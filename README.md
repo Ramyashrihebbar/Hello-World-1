@@ -1,2 +1,2 @@
-# Hello-World
-#include&lt;stdio.h> void main() { printf(" Hello world!");}
+# Hello-World in 6 programming Languages.
+
